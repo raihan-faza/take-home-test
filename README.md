@@ -78,6 +78,7 @@ There are some things to improve:
 - The current logs is not persistence, so it only shows the log in terminal, it would be nice if the logs are saved so we can see them later on.
 - Adding api documentation using swagger for convenience and for improving readability.
 - I'm currently using mvc style folder, if i have enough time maybe i want to change it into clean architecture, this is just out of personal reference because i've been using it in golang and it felt good doing it. Even though there are more things to do.
+- Dockerize the app so i can run it on a container and make other dev easier to run it as well.
 
 ## Api Documentation
 For the api documentation, you can go to [`API.md`](./API.md) for detailed documentation.
